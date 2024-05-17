@@ -41,7 +41,7 @@ Create a virtual machine in Azure that runs Windows 10 and has 2-4 cores. Once i
 <p>
 <img src="https://i.imgur.com/8h1Wvvb.png"/>
 </p>
-![image](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/8fc28cd8-67cc-4374-aae4-3d102ff8914c)
+![Test](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/8fc28cd8-67cc-4374-aae4-3d102ff8914c)
 <p>
 Open a web browser and type in 127.0.0.1 and if the installation worked then this page should appear. This address is the loopback address.
 </p>
