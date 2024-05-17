@@ -48,13 +48,14 @@ Let's go to portal.azure.com to open up a Resource group and name it RG-osTicket
 </p>
 
 <p>
-Now lets open vm-osTicket and make a Remote Desktop Connection, copy and paste the vm-osTicket Public IP Address,  press connect, and login using the other user option with user labusertd and password userlabtdAzure1$. After the VM opens change all Microsoft privacy settings to NO and press Accept, start without your data, do not bring over your data, continue and confirm.  You are done here.
+Now lets open vm-osTicket and make a Remote Desktop Connection, copy and paste the vm-osTicket Public IP Address,  press connect, and login using the other user option with user labusertd and password userlabtdAzure1$. After the VM opens change all Microsoft privacy settings to NO and press Accept, start without your data, do not bring over your data, continue and confirm.  You are done here. Note: virtual IPs change with each creation and you will have your own usernames and passwords
 </p>
 <br />
 
 
 ![osTicketRemote1](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/675bef10-ae13-4ae6-bc3f-6cc63c52754a)
 ![Remote2](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/ff83f789-7689-4d71-a245-6385f471baa1)
+![VM Privacy](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/8c1b98fa-746e-481d-a12c-2f4e9b7c02a7)
 ![Remote3](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/5b323496-bbf4-4894-a46c-2a4a1ecc0569)
 
 </p>
