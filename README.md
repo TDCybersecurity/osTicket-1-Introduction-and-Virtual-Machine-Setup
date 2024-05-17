@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 Create a virtual machine in Azure that runs Windows 10 and has 2-4 cores. Once it's intiated connect to it with remote desktop and enable IIS. Do this by clicking on the search bar and searching control panel then go to programs and then click Windows features on or off and enable Internet Information Serves and then enable CGI inisde of Application Development Features and Common HTTP Features also make sure IIS Management Console is enabled inside of WebManagement Tools. 
-Let's go to portal.azure.com to open up a Resource group and name it RG-osTicket, place it in Region (US)East US, Security type Standard, Image Windows 10 Pro, version 22H2 x64 Gen2, Size Standard D4s v3 4vcpus, 16GiB memory, a username labusertd and a password labusertdAzure1$, and check box for licensing. Click Next Disks, then click Next Networking, then click Review and create. Onvce validation passes click create and allow deployment to process.  Now lets take a look at the resources we created. Take note of the Public and Private IP Addresses for vm-osTicket and the Resource group RG-osTicket
+Let's go to portal.azure.com to open up a Resource group and name it RG-osTicket, place it in Region (US)East US, Security type Standard, Image Windows 10 Pro, version 22H2 x64 Gen2, Size Standard D4s v3 4vcpus, 16GiB memory, a username labusertd and a password labusertdAzure1$, and check box for licensing. Click Next Disks, then click Next Networking, then click Review and create. Onvce validation passes click create and allow deployment to process.  Now lets take a look at the resources we created. Take note of the Public and Private IP Addresses for vm-osTicket and the Resource group RG-osTicket. Take note of all of your virtual resources as well: VM, Network Security Group, Network, Interface and Disk.
 
 </p>
 <br />
@@ -43,10 +43,11 @@ Let's go to portal.azure.com to open up a Resource group and name it RG-osTicket
 ![Azure2](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/3a0452a1-9057-4525-92d7-4a792d75cfdc)
 ![image](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/8efb65e2-f522-477b-a3f5-a33cba7c23e8)
 ![Take not of VMs](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/7171f16a-87b3-4c6b-8c86-a720f666971b)
+
 </p>
 
 <p>
-
+Now
 </p>
 <br />
 
