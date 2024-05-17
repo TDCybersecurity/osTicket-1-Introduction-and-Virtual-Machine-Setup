@@ -1,4 +1,3 @@
-![Speedtest Mar 25 2024](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/a7c0a79e-39d7-4e9f-9011-8258fee949a5)
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
@@ -30,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-![image](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/ec1edc4f-c70a-444a-a4fb-205801308814)
+![image](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/e1f9d581-4635-4598-ba2d-01f87bd26f99)
 
 </p>
 <p>
@@ -43,14 +42,14 @@ Create a virtual machine in Azure that runs Windows 10 and has 2-4 cores. Once i
 <p>
 <img src="https://i.imgur.com/8h1Wvvb.png"/>
 </p>
-![Test](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/8fc28cd8-67cc-4374-aae4-3d102ff8914c)
+
 <p>
 Open a web browser and type in 127.0.0.1 and if the installation worked then this page should appear. This address is the loopback address.
 </p>
 <br />
 
 <p>
-![Speedtest Mar 25 2024](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/a7c0a79e-39d7-4e9f-9011-8258fee949a5)
+
 <img src="https://i.imgur.com/SYRLT8t.png"/>
 </p>
 <p>
