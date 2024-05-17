@@ -41,7 +41,7 @@ Let's go to portal.azure.com to open up a Resource group and name it RG-osTicket
 
 ![Azure ResourceGroup](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/8c08fe53-155f-4ab0-a0c0-8457486b5212)
 ![Azure2](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/3a0452a1-9057-4525-92d7-4a792d75cfdc)
-
+![image](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/8efb65e2-f522-477b-a3f5-a33cba7c23e8)
 </p>
 
 <p>
