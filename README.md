@@ -38,7 +38,7 @@ Create a virtual machine in Azure that runs Windows 10 and has 2-4 cores. Once i
 </p>
 <br />
 
-
+![Azure ResourceGroup](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/8c08fe53-155f-4ab0-a0c0-8457486b5212)
 </p>
 
 <p>
