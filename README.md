@@ -29,7 +29,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/rwsDH3w.png"/>
+
+
 </p>
 <p>
 Create a virtual machine in Azure that runs Windows 10 and has 2-4 cores. Once it's intiated connect to it with remote desktop and enable IIS. Do this by clicking on the search bar and searching control panel then go to programs and then click Windows features on or off and enable Internet Information Serves and then enable CGI inisde of Application Development Features and Common HTTP Features also make sure IIS Management Console is enabled inside of WebManagement Tools.
