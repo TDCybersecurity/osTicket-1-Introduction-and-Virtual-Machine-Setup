@@ -1,3 +1,4 @@
+![Speedtest Mar 25 2024](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/a7c0a79e-39d7-4e9f-9011-8258fee949a5)
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
