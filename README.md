@@ -49,6 +49,7 @@ Open a web browser and type in 127.0.0.1 and if the installation worked then thi
 <br />
 
 <p>
+![Speedtest Mar 25 2024](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/a7c0a79e-39d7-4e9f-9011-8258fee949a5)
 <img src="https://i.imgur.com/SYRLT8t.png"/>
 </p>
 <p>
