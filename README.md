@@ -39,9 +39,6 @@ Create a virtual machine in Azure that runs Windows 10 and has 2-4 cores. Once i
 <br />
 
 
-
-
-<img src="https://i.imgur.com/8h1Wvvb.png"/>
 </p>
 
 <p>
