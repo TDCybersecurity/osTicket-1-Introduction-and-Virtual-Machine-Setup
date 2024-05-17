@@ -33,16 +33,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Create a virtual machine in Azure that runs Windows 10 and has 2-4 cores. Once it's intiated connect to it with remote desktop and enable IIS. Do this by clicking on the search bar and searching control panel then go to programs and then click Windows features on or off and enable Internet Information Serves and then enable CGI inisde of Application Development Features and Common HTTP Features also make sure IIS Management Console is enabled inside of WebManagement Tools.
+Create a virtual machine in Azure that runs Windows 10 and has 2-4 cores. Once it's intiated connect to it with remote desktop and enable IIS. Do this by clicking on the search bar and searching control panel then go to programs and then click Windows features on or off and enable Internet Information Serves and then enable CGI inisde of Application Development Features and Common HTTP Features also make sure IIS Management Console is enabled inside of WebManagement Tools. Let's go to portal.azure.com to open up a Resource group and name it RG-osTicket, place it in Region (US)East US, Security type Standard, Image Windows 10 Pro, version 22H2 x64 Gen2, Size Standard D4s v3 4vcpus, 16GiB memory, a username labusertd and a password labusertdAzure1$, and check box for licensing.
 
 </p>
 <br />
 
 ![Azure ResourceGroup](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/8c08fe53-155f-4ab0-a0c0-8457486b5212)
+
 </p>
 
 <p>
-Open a web browser and type in 127.0.0.1 and if the installation worked then this page should appear. This address is the loopback address.
+
 </p>
 <br />
 
