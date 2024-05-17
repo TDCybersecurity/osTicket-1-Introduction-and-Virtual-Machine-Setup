@@ -14,7 +14,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>List of Prerequisites</h2>
 
@@ -43,6 +43,7 @@ Let's go to portal.azure.com to open up a Resource group and name it RG-osTicket
 ![Azure2](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/3a0452a1-9057-4525-92d7-4a792d75cfdc)
 ![image](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/8efb65e2-f522-477b-a3f5-a33cba7c23e8)
 ![Take not of VMs](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/7171f16a-87b3-4c6b-8c86-a720f666971b)
+![osTicket 5](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/15ca7b23-8588-4f39-9283-a6a0d5e773fb)
 
 </p>
 
