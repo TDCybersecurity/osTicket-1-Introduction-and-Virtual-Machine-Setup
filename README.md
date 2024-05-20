@@ -33,11 +33,14 @@ In search bar type virtual machines \> click Virtual machines \> Create\> 
  I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights.
 
 Next: Disks \> Next: Networking \> **Review + Create**
+
+
 ![os Ticket 2 Create](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/23f9e21e-4bd9-4bb8-ba3b-6a5424000017)
 
+Second part of the same page.
 
+![os Ticket 2 Create2](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/15b09c2f-e298-4220-8ddd-ad34f24e4e80)
 
-![](RackMultipart20240520-1-1pgppb_html_fa9d6f6ac9d67b67.png)
 
 Validation passed \> **Create**  **\>** Deployment is in progress while resources are created \>
 
