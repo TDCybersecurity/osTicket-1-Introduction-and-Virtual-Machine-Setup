@@ -19,7 +19,8 @@ In browser go to: portal.azure.com \> Resource groups \> click on +Create \> go 
 
 Region (US) East US 2 \> **Review+create \>**  **** Validation passed \> **Create.**
 
-![](RackMultipart20240520-1-1pgppb_html_b7c13629009da180.png)
+![1 RG osTicket1](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/7e2d0e0a-ed9c-4424-95dc-86d384fa0218)
+
 
 2 Create a Windows 10 Virtual Machine with 2-4 Virtual CPUs
 
