@@ -44,7 +44,9 @@ Second part of the same page.
 
 Validation passed \> **Create**  **\>** Deployment is in progress while resources are created \>
 
-![](RackMultipart20240520-1-1pgppb_html_b6f57a30bcc8974.png)
+![osTicket3](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/2caeb0b8-b0fe-4dcc-b41f-105f3c1c3448)
+
+
 
 From  Deployment is in progress to  Your deployment is complete \> Go to Resources
 
