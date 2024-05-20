@@ -56,4 +56,6 @@ From  Deployment is in progress to  Your deployment is complete \> G
 
 **Observe**  **Public IP**  **Address**  **40.123.36.32**  **and**  **Private**  **IP Address**  **10.0.0.4**
 
-![](RackMultipart20240520-1-1pgppb_html_f27eeb0a27710b2f.png)
+![osTicket6](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/5491cf91-a264-4031-a4e4-8391dc72171a)
+
+
