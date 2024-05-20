@@ -50,7 +50,9 @@ Second part of the same page.
 
 From  Deployment is in progress to  Your deployment is complete \> Go to Resources
 
-![](RackMultipart20240520-1-1pgppb_html_45bec60565e95185.png)
+![osTicket4](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/a4a53312-0976-4169-81a2-4922e9715af2)
+
+
 
 **Observe**  **Public IP**  **Address**  **40.123.36.32**  **and**  **Private**  **IP Address**  **10.0.0.4**
 
