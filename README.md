@@ -33,8 +33,9 @@ In search bar type virtual machines \> click Virtual machines \> Create\> 
  I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights.
 
 Next: Disks \> Next: Networking \> **Review + Create**
+![os Ticket 2 Create](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/23f9e21e-4bd9-4bb8-ba3b-6a5424000017)
 
-![](RackMultipart20240520-1-1pgppb_html_11cfeb955de36c2a.png)
+
 
 ![](RackMultipart20240520-1-1pgppb_html_fa9d6f6ac9d67b67.png)
 
