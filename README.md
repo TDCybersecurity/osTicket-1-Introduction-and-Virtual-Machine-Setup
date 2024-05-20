@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
+
 # **osTicket Overview and Virtual Machine Creation**
 
 # **Part 1 Installation**
@@ -14,16 +18,16 @@ osTicket is a widely used and trusted open-source support ticketing system. Easi
       
  **1 Create a Resource Group**
 
-In browser go to: portal.azure.com \> Resource groups \> click on +Create \> go to Resource group\* name it <span style="color:blue">RG-osTicket1</span>
+In browser go to: portal.azure.com \> Resource groups \> click on +Create \> go to Resource group\* name it <span style="color:blue">**RG-osTicket1**
 
-Region (US) East US 2 \> **Review+create \>☑️ Validation passed \> **Create.**
+Region **(US) East US 2** \> **Review+create \>☑️ Validation passed \> **Create.**
 
 ![1 RG osTicket1](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/7e2d0e0a-ed9c-4424-95dc-86d384fa0218)
 
 
  **2 Create a Windows 10 Virtual Machine with 2-4 Virtual CPUs**
 
-In search bar type virtual machines \> click Virtual machines \> Create\>  Azure virtual machine \>
+In search bar type virtual machines \> click 💻Virtual machines \> Create\> 💻Azure virtual machine \>
 
 | **Resource group**| **VM machine**| **Region**| **Availability options**| **Security type**| **Image**| **Size**| **Username**| **Password**|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -45,9 +49,9 @@ Second part of the same page.
 
 ![osTicket3](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/2caeb0b8-b0fe-4dcc-b41f-105f3c1c3448)
 
+In conclusion, we have gained hands-on experience
 
-
-From  Deployment is in progress to  Your deployment is complete \> Go to Resources
+From ◾◾◾Deployment is in progress to ✔️ Your deployment is complete \> Go to Resources
 
 ![osTicket4](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/a4a53312-0976-4169-81a2-4922e9715af2)
 
@@ -58,3 +62,5 @@ From  Deployment is in progress to  Your deployment is complete \> G
 ![osTicket6](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/5491cf91-a264-4031-a4e4-8391dc72171a)
 
 
+### **Congratulations! 
+### **We have gained hands-on experience setting up a Resource Group and a Virtual Machine in Microsoft Azure.**
