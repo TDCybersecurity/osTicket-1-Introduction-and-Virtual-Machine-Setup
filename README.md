@@ -8,7 +8,7 @@
 
 ## **What is osTicket?**
 
-osTicket is a widely used and trusted open-source support ticketing system that allows you to easily scale and streamline your customer service and drastically improve your customer's experience.
+osTicket is a widely used and trusted open-source support ticketing system that allows you to easily scale and streamline your customer service tracking and improve your customer experience.
 
  **Part 1 Create a Virtual Machine in Azure**
 
@@ -63,4 +63,4 @@ From ◾◾◾Deployment is in progress to ✔️ Your deployment is complete \>
 
 
 ### **Congratulations! 
-### **We have gained hands-on experience setting up a Resource Group and a Virtual Machine in Microsoft Azure.**
+### **This lab demonstrates hands-on experience in configuring prerequisites and installing osTicket.**
