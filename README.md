@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-# **osTicket Overview and Virtual Machine Creation**
+# **osTicket: 1 Introduction and Virtual Machine Setup**
 
 # **Part 1 Installation**
 
