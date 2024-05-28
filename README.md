@@ -63,4 +63,4 @@ From ◾◾◾Deployment is in progress to ✔️ Your deployment is complete \>
 
 
 ### **Congratulations! 
-### **This lab demonstrates hands-on experience in configuring prerequisites and installing osTicket.**
+### **This lab demonstrates hands-on experience in setting up a Resource Group and Virtual Machine to facilitate the installation of osTicket.**
