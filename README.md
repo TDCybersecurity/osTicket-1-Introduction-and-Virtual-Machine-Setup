@@ -18,7 +18,7 @@ osTicket is a widely used and trusted open-source support ticketing system that 
       
  **1 Create a Resource Group**
 
-In browser go to: portal.azure.com \> Resource groups \> click on +Create \> go to Resource group\* name it <span style="color:blue">**RG-osTicket1**
+In your browser go to: portal.azure.com \> Resource groups \> click on +Create \> go to Resource group\* name it <span style="color:blue">**RG-osTicket1**
 
 Region **(US) East US 2** \> **Review+create \>☑️ Validation passed \> **Create.**
 
@@ -49,8 +49,6 @@ Second part of the same page.
 
 ![osTicket3](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/2caeb0b8-b0fe-4dcc-b41f-105f3c1c3448)
 
-In conclusion, we have gained hands-on experience
-
 From ◾◾◾Deployment is in progress to ✔️ Your deployment is complete \> Go to Resources
 
 ![osTicket4](https://github.com/TDCybersecurity/osTicket-Post-Installation-Setup/assets/142702123/a4a53312-0976-4169-81a2-4922e9715af2)
@@ -63,4 +61,4 @@ From ◾◾◾Deployment is in progress to ✔️ Your deployment is complete \>
 
 
 ### **Congratulations! 
-### **This lab demonstrates hands-on experience in setting up a Resource Group and Virtual Machine to facilitate the installation of osTicket.**
+### **This lab demonstrates hands-on experience in setting up a Resource Group and Virtual Machine using Microsoft Azure to facilitate the installation of osTicket.**
